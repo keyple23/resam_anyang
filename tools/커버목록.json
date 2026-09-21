@@ -1,0 +1,15 @@
+{
+  "_설명": "브랜드 색상과 만들 커버 목록. tone 은 0~1 사이 값으로 커버마다 색을 조금씩 다르게 만듭니다.",
+  "brandColor": "#1f6f5c",
+  "brandColor2": "#4fb094",
+  "siteName": "브랜드 매거진",
+  "tagline": "이 사이트가 무엇을 다루는지 한 줄",
+  "covers": [
+    { "file": "kw-first.jpg", "title": "첫 번째 키워드", "sub": "무엇을 다루는지 한 줄", "tone": 0.0 },
+    { "file": "kw-second.jpg", "title": "두 번째 키워드", "sub": "무엇을 다루는지 한 줄", "tone": 0.4 },
+    { "file": "kw-third.jpg", "title": "세 번째 키워드", "sub": "무엇을 다루는지 한 줄", "tone": 0.8 },
+    { "file": "cover-article-1.jpg", "title": "첫 번째 글 제목", "sub": "", "tone": 0.2 },
+    { "file": "cover-article-2.jpg", "title": "두 번째 글 제목", "sub": "", "tone": 0.6 },
+    { "file": "cover-article-3.jpg", "title": "세 번째 글 제목", "sub": "", "tone": 1.0 }
+  ]
+}

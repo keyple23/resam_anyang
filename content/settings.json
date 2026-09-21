@@ -1,0 +1,238 @@
+{
+  "name": "리샘한의원 안양범계점",
+  "homeTitle": "편평사마귀 제거 | 쥐젖 | 비립종 | 안면비대칭 - 리샘한의원 안양범계점",
+  "shortName": "리샘한의원",
+  "tagline": "피부 돌기 제거부터 안면비대칭까지, 진료 전에 알아둘 것",
+  "description": "리샘한의원 안양범계점이 정리한 진료 정보. 편평사마귀·쥐젖·비립종·피지샘증식증 제거, 안면비대칭·턱관절·두상교정·체형교정, 비수술 코 시술과 리프팅을 다룹니다. 범계역 도보 거리.",
+  "url": "",
+  "heroImage": "",
+  "ogImage": "og-default.png",
+  "organization": {
+    "name": "리샘한의원 안양범계점",
+    "legalName": "리샘한의원 안양범계점",
+    "url": "https://resamanyang.com",
+    "logo": "/images/logo.png",
+    "sameAs": [
+      "https://blog.naver.com/resamanyang",
+      "https://www.instagram.com/resamanyang/"
+    ]
+  },
+  "defaultAuthor": {
+    "name": "리샘한의원 안양범계점",
+    "jobTitle": ""
+  },
+  "categories": [
+    {
+      "slug": "skin",
+      "name": "피부 돌기 제거",
+      "description": "편평사마귀, 쥐젖, 비립종, 피지샘증식증, 점을 구별하고 제거 전후에 챙길 것"
+    },
+    {
+      "slug": "balance",
+      "name": "안면비대칭·체형",
+      "description": "안면비대칭, 턱관절, 아이 두상교정, 거북목·골반 체형교정"
+    },
+    {
+      "slug": "beauty",
+      "name": "한방 성형·리프팅",
+      "description": "절개 없는 코 시술, 실리프팅, 팔자주름"
+    },
+    {
+      "slug": "visit",
+      "name": "내원 안내",
+      "description": "위치, 진료시간, 지역별 오시는 길"
+    }
+  ],
+  "brandColor": "#b89e87",
+  "logo": "logo.png",
+  "coverDefault": "",
+  "business": {
+    "type": "MedicalClinic",
+    "companyName": "리샘한의원 안양범계점",
+    "ceo": "지세인",
+    "address": "경기도 안양시 동안구 평촌대로223번길 65, 범계빌딩 5층 502호 (범계역 2번 출구 도보 1분)",
+    "streetAddress": "평촌대로223번길 65, 범계빌딩 5층 502호",
+    "addressLocality": "안양시 동안구",
+    "addressRegion": "경기도",
+    "postalCode": "",
+    "addressCountry": "KR",
+    "phone": "031-382-4205",
+    "hours": "평일 오전 11시 ~ 오후 9시 · 토요일 오전 10시 ~ 오후 3시 · 수요일·일요일 정기 휴무",
+    "openingHours": "Mo,Tu,Th,Fr 11:00-21:00; Sa 10:00-15:00",
+    "email": "resam@naver.com",
+    "priceRange": "",
+    "bizNo": "",
+    "mailOrderNo": "",
+    "terms": "",
+    "privacy": "",
+    "geo": {
+      "lat": 37.3900666,
+      "lng": 126.9522201
+    },
+    "areaServed": [
+      "안양",
+      "범계",
+      "평촌",
+      "산본",
+      "금정",
+      "군포",
+      "의왕",
+      "안산",
+      "시흥",
+      "배곧",
+      "광명"
+    ],
+    "medicalSpecialty": [
+      "편평사마귀 제거",
+      "쥐젖 제거",
+      "비립종 제거",
+      "피지샘증식증",
+      "점제거",
+      "안면비대칭 교정",
+      "턱관절",
+      "두상교정",
+      "체형교정",
+      "비수술 코 시술",
+      "실리프팅"
+    ],
+    "phone2": "010-2708-4205"
+  },
+  "keywords": [
+    "안양 편평사마귀 제거",
+    "범계역 편평사마귀 제거",
+    "편평사마귀 무제한 제거",
+    "임산부 편평사마귀",
+    "안양 쥐젖 제거",
+    "안양 비립종 제거",
+    "안양 피지샘증식증",
+    "안양 점제거",
+    "안양 안면비대칭",
+    "안양 턱관절",
+    "안양 두상교정",
+    "안양 체형교정",
+    "안양 코성형",
+    "안양 실리프팅",
+    "산본 편평사마귀",
+    "군포 편평사마귀",
+    "안산 편평사마귀",
+    "시흥 편평사마귀",
+    "광명 편평사마귀",
+    "부천 편평사마귀",
+    "리샘 안양"
+  ],
+  "nav": [
+    {
+      "label": "피부 돌기 제거",
+      "href": "/keywords/안양-편평사마귀/",
+      "children": [
+        {
+          "label": "편평사마귀",
+          "href": "/keywords/안양-편평사마귀/"
+        },
+        {
+          "label": "무제한 제거",
+          "href": "/keywords/편평사마귀-무제한-제거/"
+        },
+        {
+          "label": "임산부",
+          "href": "/keywords/임산부-편평사마귀/"
+        },
+        {
+          "label": "쥐젖",
+          "href": "/keywords/안양-쥐젖-제거/"
+        },
+        {
+          "label": "비립종",
+          "href": "/keywords/안양-비립종-제거/"
+        },
+        {
+          "label": "피지샘증식증",
+          "href": "/keywords/안양-피지샘증식증/"
+        },
+        {
+          "label": "점제거",
+          "href": "/keywords/안양-점제거/"
+        }
+      ]
+    },
+    {
+      "label": "안면비대칭·체형",
+      "href": "/keywords/안양-안면비대칭/",
+      "children": [
+        {
+          "label": "안면비대칭",
+          "href": "/keywords/안양-안면비대칭/"
+        },
+        {
+          "label": "턱관절",
+          "href": "/keywords/안양-턱관절/"
+        },
+        {
+          "label": "두상교정",
+          "href": "/keywords/안양-두상교정/"
+        },
+        {
+          "label": "체형교정",
+          "href": "/keywords/안양-체형교정/"
+        }
+      ]
+    },
+    {
+      "label": "한방 성형·리프팅",
+      "href": "/keywords/안양-코성형/",
+      "children": [
+        {
+          "label": "코 시술",
+          "href": "/keywords/안양-코성형/"
+        },
+        {
+          "label": "실리프팅",
+          "href": "/keywords/안양-실리프팅/"
+        }
+      ]
+    },
+    {
+      "label": "지역별 안내",
+      "href": "/keywords/리샘-안양/",
+      "children": [
+        {
+          "label": "산본·금정",
+          "href": "/keywords/산본-편평사마귀/"
+        },
+        {
+          "label": "군포·의왕",
+          "href": "/keywords/군포-편평사마귀/"
+        },
+        {
+          "label": "안산",
+          "href": "/keywords/안산-편평사마귀/"
+        },
+        {
+          "label": "시흥·배곧",
+          "href": "/keywords/시흥-편평사마귀/"
+        },
+        {
+          "label": "광명",
+          "href": "/keywords/광명-편평사마귀/"
+        },
+        {
+          "label": "부천",
+          "href": "/keywords/부천-편평사마귀/"
+        }
+      ]
+    }
+  ],
+  "promo": {
+    "image": "",
+    "imageMobile": "",
+    "alt": "",
+    "href": "",
+    "show": false
+  },
+  "mainLink": {
+    "label": "홈페이지",
+    "note": "진료 예약과 상담은 공식 홈페이지에서 할 수 있습니다",
+    "contactTitle": "진료 안내",
+    "about": "진료 전에 알아두면 좋은 정보를 제공합니다. 시술 결과와 회복 기간은 개인에 따라 다를 수 있습니다."
+  }
+}
